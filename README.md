@@ -367,40 +367,6 @@ void loop() {
 
 ---
 
-## 📊 Visualizations
-
-### Model Size Comparison
-
-![Model Size](docs/images/model_comparison.png)
-
-### Battery Life Projection
-
-![Battery Life](docs/images/battery_projection.png)
-
-### 5-Year Cost Analysis
-
-![Cost Analysis](docs/images/cost_analysis.png)
-
-### Power Consumption Profile
-
-![Power Profile](docs/images/power_profile.png)
-
----
-
-## 🔬 Reproducibility
-
-All results are fully reproducible:
-
-1. **Open Google Colab notebook** (link above)
-2. **Run cells sequentially**
-3. **Generate metrics and visualizations**
-4. **Compare with published results**
-
-Code is clean, documented, and follows ML best practices:
-- ✅ Seed fixed for reproducibility
-- ✅ Train/test split: 80/20
-- ✅ Cross-validation included
-- ✅ All dependencies pinned to versions
 
 ---
 
