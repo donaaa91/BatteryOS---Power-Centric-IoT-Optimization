@@ -9,7 +9,9 @@
 
 [75.7% power reduction • 3x battery life • 66% fewer field visits • $2.9M annual savings]
 
-![Battery Optimization Results](docs/images/battery_banner.png)
+
+<img width="1389" height="993" alt="image" src="https://github.com/user-attachments/assets/ec47ced1-b9e6-479f-ac8f-0993fb469c71" />
+
 
 ---
 
